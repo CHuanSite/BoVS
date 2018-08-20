@@ -1,0 +1,13 @@
+Package: BoVS
+Type: Package
+Title: Bagging on the Validation Set Algorithm
+Version: 0.1.0
+Author: Huan Chen
+Maintainer: Huan Chen <hchen130@jhu.edu>
+Description: This package contains functions that Apply the BoVS Algorithm to Make the Ensemble 
+ Test the performance of the BoVS algorithm Evaluate the Individual Mdoel's Performance 
+License: MIT
+Depends: keras
+Date: 2018-07-25
+Encoding: UTF-8
+LazyData: true

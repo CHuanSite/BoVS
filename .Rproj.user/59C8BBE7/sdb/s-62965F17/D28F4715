@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: BoVS\nType: Package\nTitle: Bagging on the Validation Set Algorithm\nVersion: 0.1.0\nAuthor: Huan Chen\nMaintainer: Huan Chen <hchen130@jhu.edu>\nDescription: This package contains functions that Apply the BoVS Algorithm to Make the Ensemble \n Test the performance of the BoVS algorithm Evaluate the Individual Mdoel's Performance \nLicense: MIT\nDepends: keras\nDate: 2018-07-25\nEncoding: UTF-8\nLazyData: true\n",
+    "created" : 1534794764488.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1882312660",
+    "id" : "D28F4715",
+    "lastKnownWriteTime" : 1532524028,
+    "last_content_update" : 1532524028,
+    "path" : "~/Desktop/BoVS/BoVS/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

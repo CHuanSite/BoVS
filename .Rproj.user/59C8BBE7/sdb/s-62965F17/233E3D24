@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{BaggingTest}\n\\alias{BaggingTest}\n\\title{BaggingTest}\n\\usage{\nBaggingTest(res, model_list, x_test, y_test, start_pos = 1, end_pos = 1000)\n}\n\\description{\nInput the result BoVS in res, a list of candidate models, the test set, which model is the strating point to use and which model is the endding point to use.\n}\n\\arguments{\n  \\item{res}{The index of the model obtained after the BoVS algorithm, the return of the BaggingVal function}\n  \\item{model_list}{The list of Neural Network models trained with the keras package}\n  \\item{x_test}{The data of the test set}\n  \\item{y_test}{The label corresponding to the test dataset, it needs to be a numeric label(0,1,\\dots, N)}\n  \\item{start_pos}{The starting point of the model being used}\n  \\item{end_pos}{The end point of the model being used}\n}\n\n",
+    "created" : 1534795321664.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "615002033",
+    "id" : "233E3D24",
+    "lastKnownWriteTime" : 1534798818,
+    "last_content_update" : 1534798818,
+    "path" : "~/Desktop/BoVS/BoVS/man/BaggingTest.Rd",
+    "project_path" : "man/BaggingTest.Rd",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
